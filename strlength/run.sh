@@ -4,10 +4,12 @@
 
 make  
 
-times ./"$1" 
+res1=$(date +%s.%N)
+./"$1" 
+res2=$(date +%s.%N)
 
-runtime=$((end-start))
-echo $runtime
+echo $(($res2-$res1))
+
 
 
 #curl -s -F file=@strlength.h http://hepl.info-etude.be/test.php?result=$result -o 'output'
