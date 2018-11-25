@@ -8,7 +8,7 @@ res1=$(date +%s.%N)
 ./"$1" 
 res2=$(date +%s.%N)
 
-echo $(($res2-$res1))
+echo $((res2-res1))
 
 
 
