@@ -4,11 +4,11 @@
 
 make  
 
-res1=$(date +%N)
+res1=$(date +%s)
 ./"$1" 
-res2=$(date +%N)
+res2=$(date +%s)
 
-dt=$(($(($res2 - $res1))/1000))
+dt=$(($res2 - $res1))
 echo $dt
 
 #curl -s -F file=@strlength.h http://hepl.info-etude.be/test.php?result=$result -o 'output'
