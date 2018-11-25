@@ -1,10 +1,23 @@
-title: .NET Core C# Project
+title: Labo 14
 plan:
-- title: Welcome
-  statement: markdowns/welcome.md
+- title: Introduction
+  statement: markdowns/introduction.md
+- title: Exercice 1
+  statement: markdowns/ex1.md
+- title: Exercice 2
+  statement: markdowns/ex2.md
+- title: Exercice 3
+  statement: markdowns/ex3.md
+- title: Exercice 4
+  statement: markdowns/ex4.md
 projects:
-  csharp:
-    root: /csharp-project
+  strlength:
+    root: /strlength
     runner:
-      name: techio/dotnet-runner
-      version: 1.1.0-dotnet-1.1-sdk-msbuild
+      name: techio/cmake-gcc-runner
+      version: latest
+  palindrome:
+    root: /palindrome
+    runner:
+      name: techio/cmake-gcc-runner
+      version: latest
