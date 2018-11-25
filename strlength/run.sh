@@ -9,7 +9,7 @@ res1=$(date +%s.%N)
 res2=$(date +%s.%N)
 
 # dt=$(($res2 - $res1))
-dt=$(echo "$res2+$res1" |bc )
+let "dt=$res2-$res1"
 echo $dt
 
 #curl -s -F file=@strlength.h http://hepl.info-etude.be/test.php?result=$result -o 'output'
