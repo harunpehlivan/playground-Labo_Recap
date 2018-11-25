@@ -4,7 +4,7 @@
 
 make  
 
-time ./"$1" 
+times ./"$1" 
 
 runtime=$((end-start))
 echo $runtime
