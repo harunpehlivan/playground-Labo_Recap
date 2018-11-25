@@ -4,9 +4,9 @@
 
 make  
 
-start="date +%s"
+start='date +%s'
 ./"$1" 
-end="date +%s"
+end='date +%s'
 
 runtime=$((end-start))
 echo $runtime
