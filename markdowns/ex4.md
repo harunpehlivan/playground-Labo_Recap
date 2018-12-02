@@ -1,4 +1,4 @@
-# Exercice 3
+# Exercice 4
 
 Sur les chaînes de caractères, voilà aussi  un exercice de chiffrement/déchiffrement symétrique simple basé sur l'image en pièce jointe : 
 

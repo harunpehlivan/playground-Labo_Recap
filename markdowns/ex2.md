@@ -1,4 +1,4 @@
-# Exercice 4
+# Exercice 2
 
 ## Carré de Polybe
 
