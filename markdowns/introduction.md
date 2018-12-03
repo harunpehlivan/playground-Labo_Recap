@@ -5,4 +5,4 @@ Pour les exercices de programmation, avant de commencer à implémenter les solu
 
 ## Quizz
 
-Avant de commencer, répondez à [ce quizz] (https://docs.google.com/forms/d/e/1FAIpQLSeWjdcN7_zpMlRJTlmeWogtbCoD1XL4Tay8np9-39DXr3dwoA/viewform) traversant la matière vue. 
+Avant de commencer, répondez à [ce quizz](https://goo.gl/forms/pghYMy65NJXo5mFu1) traversant la matière vue. 
