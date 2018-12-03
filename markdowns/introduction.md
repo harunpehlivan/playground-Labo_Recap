@@ -1,7 +1,8 @@
 # Introduction
 
-Les exerices qui suivent ont pour objectif d'utiliser tous les points matières qui ont été vu. A vous de déterminer la solution idéale. Il ne faut pas oublier de décomposer les problèmes plus important en une série de sous-problèmes simple à résoudre.
+Les exerices qui suivent couvrent les points matières abordés dans l'UE.  
+Pour les exercices de programmation, avant de commencer à implémenter les solutions, décomposez les problèmes plus importants en une série de sous-problèmes plus simples à résoudre.
 
 ## Quizz
 
-Avant de commencer répondez à ce quizz traversant la matière vue.
+Avant de commencer, répondez à [ce quizz] (https://docs.google.com/forms/d/e/1FAIpQLSeWjdcN7_zpMlRJTlmeWogtbCoD1XL4Tay8np9-39DXr3dwoA/viewform) traversant la matière vue. 
