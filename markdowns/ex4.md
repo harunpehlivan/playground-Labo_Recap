@@ -5,9 +5,8 @@ Sur les chaînes de caractères, voilà aussi  un exercice de chiffrement/déchi
 chaque  caractère du message à chiffrer  est remplacé par un caractère correspondant de la roue intérieur. 
 Pour le déchiffrement, la démarche se fait dans l'autre sens.
 
-![Roue](images/roue.png)
-
 L'implémentation comprendra une série de fonctions. 
 Les fonctions que vous aurez identifiées et leur prototype seront discutées en laboratoire.
+![Roue](images/roue.png)
 
 
