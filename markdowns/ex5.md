@@ -28,11 +28,11 @@ Pour être un `T`, il faut que la valeur de l'élément central (21 dans cet exe
 
 Un `T` ne peut pas être partiel. Il doit comporter les 4 éléments tels que décrits ci-dessus.
 
-Dans l'exemple ci-contre, 21 est bien strictement supérieur à la somme de 1,9 et 5.
+Dans l'exemple ci-contre, 21 est bien strictement supérieur à la somme de 1, 9 et 5.
 
 ![Exemple](images/unT.jpg)
 
 ## Informations complémentaires
-- Des constantes permettent de gérer les dimensions maximales de la matrice et les bornes MIN et MAX de génération du nombre aléatoire. 
+- Des constantes permettent de gérer les dimensions maximales de la matrice et les bornes `MIN` et `MAX` de génération du nombre aléatoire. 
 - Les fonctions doivent être écrites pour être génériques et donc réutilisables. Les tests spécifiques à ce programme doivent être gérés en dehors des fonctions (e.g. le fait de savoir si la matrice est initialisée ou non)
 - Si une action demandée par l’utilisateur est impossible à exécuter, un message doit être affiché pour l’utilisateur.
