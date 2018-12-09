@@ -11,7 +11,7 @@ Un projet d’investissement qui démarrerait dans un an avec un investissement 
 La formule à utiliser pour calculer la NPV est la suivante
 ```math
 
-NPV=\sum_{n=0}^{n} \frac{CF}{(1+r)^n}
+NPV=\sum_{n=0}^{n} \frac{CF\textsubscript{n}}{(1+r)^n}
 
 ```
 
