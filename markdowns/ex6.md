@@ -4,7 +4,7 @@
 L'exercice consiste à réaliser un programme qui doit permettre de calculer la NPV (Net Present Value) d'un projet d'investissement d'une entreprise.
 
 ## Exemple
-Un projet d’investissement qui démarrerait dans un an avec un investissement de 3000 euros  et qui rapporte ensuite 1000 euros annuellement pendant 4 ans  et la dernière année (année 5) 5000 euros  a une valeur actuelle de 3.439,85 euros (on suppose l’investissement r=8%).
+Un projet d’investissement qui démarrerait dans un an avec un investissement de 3000 euros  et qui rapporte ensuite 1000 euros annuellement pendant 4 ans  et la dernière année (année 5) 5000 euros  a une valeur actuelle de 3.439,85 euros (on suppose l’investissement à un taux r=8%).
 
 ![Exemple](images/cash_flows.png)
 
