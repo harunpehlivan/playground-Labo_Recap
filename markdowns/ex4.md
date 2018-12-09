@@ -2,7 +2,7 @@
 
 Sur les chaînes de caractères, voilà aussi  un exercice de chiffrement/déchiffrement symétrique simple basé sur l'image ci-dessous : 
 
-Alice et Bob, qui désirent communiquer à l'aide de se système, dispose chacun de la roue alignée à l'identique.
+Alice et Bob, qui désirent communiquer à l'aide de ce système, dispose chacun de la roue alignée à l'identique.
 Ils auront convenu au préalable comment aligner la roue.
 Chaque  caractère d'un message que l'un deux désire échanger avec l'autre est remplacé par un caractère correspondant de la roue intérieur. 
 Pour le déchiffrement, la démarche se fait dans l'autre sens.
