@@ -11,7 +11,7 @@ Un projet d’investissement qui démarrerait dans un an avec un investissement 
 La formule à utiliser pour calculer la NPV est la suivante
 ```math
 
-NPV=\sum_{n=0}^{n} \frac{CF{n}}{(1+r)^n}
+NPV=\sum_{n=0}^{N} \frac{CF{n}}{(1+r)^n}
 
 ```
 
@@ -21,9 +21,20 @@ NPV = \frac{-3000}{1.08}+\frac{1000}{(1.08)^{2}}+ \frac{1000}{(1.08)^{3}}+ \frac
 
 ```
 
-## A réaliser
-- Saisie des cash flows et des instants correspondants dans un vecteur
-- Saisie du taux d'actualisation employé
-- Calcul de la NPV et affichage du résultat dans la console
 
+## Détail de la formule
+- r est le taux d'actualisation 
+- CFn est le flux de trésorerie net pour l'année n.
+- N est l'horizon et indique la dernière période
+
+
+## Principaux points à réaliser
+- Une fonction NPV pour calculer la NPV
+- La saisie des cash flows (nets) dans un vecteur. 
+- La saisie du taux d'actualisation employé
+- L'appel à la fonction du calcul de la NPV et affichage du résultat dans la console
+
+## Hypothèses et compléments d'informations pour l'implémentation
+- On fera l'hypothèse d'un horizon sur maximum 10 ans, ce qui vous informe sur la taille du vecteur à déclarer.
+- Un cash flow net noté négativement indique un flux de trésorerie sortant et positivement un flux de trésorerie entrant. 
 
