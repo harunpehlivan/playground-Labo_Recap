@@ -15,17 +15,19 @@ NPV=\sum_{n=0}^{N} \frac{CF{n}}{(1+r)^n}
 
 ```
 
+## Détail de la formule
+- r est le taux d'actualisation 
+- CFn est le flux de trésorerie net pour l'année n.
+- N est l'horizon et indique la dernière période
+
+
+
 Pour notre exemple, l'application de la formule  donne :
 ```math
 NPV = \frac{-3000}{1.08}+\frac{1000}{(1.08)^{2}}+ \frac{1000}{(1.08)^{3}}+ \frac{1000}{(1.08)^{4}}+ \frac{1000}{(1.08)^{5}}+ \frac{5000}{(1.08)^{6}} = 3.439,85
 
 ```
 
-
-## Détail de la formule
-- r est le taux d'actualisation 
-- CFn est le flux de trésorerie net pour l'année n.
-- N est l'horizon et indique la dernière période
 
 
 ## Principaux points à réaliser
